@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://99moster.com/sitemap.xml
-
